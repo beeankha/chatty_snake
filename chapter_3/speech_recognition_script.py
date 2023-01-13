@@ -1,8 +1,6 @@
 import speech_recognition as sr
 
 
-speech = sr.Recognizer()
-
 while True:
     print("Python is listening...")
     inp = ""
